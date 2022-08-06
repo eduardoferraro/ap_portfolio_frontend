@@ -1,0 +1,38 @@
+#encabezado {
+    background-color: #00358e;
+}
+
+#logo {
+    width: 120px;
+}
+
+.redes-img {
+    padding: 2px; 
+    font-size: 2em; 
+    color: white;
+}
+
+
+#encabezado-img {
+    min-height: 77vh;
+    background:url('../images/banner.jpg'); 
+    background-size: cover;
+}
+
+#user-img {
+    padding: 2px; 
+    font-size: 1.5em; 
+    color: white;
+}
+
+.edit-ico {
+    font-size: 1.5em; 
+    
+}
+
+
+
+
+
+
+
