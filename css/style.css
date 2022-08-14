@@ -14,10 +14,11 @@
 
 
 #encabezado-img {
-    min-height: 77vh;
+    min-height: 78vh;
     background:url('../images/banner.jpg'); 
     background-size: cover;
 }
+
 
 #user-img {
     padding: 2px; 
@@ -25,8 +26,8 @@
     color: white;
 }
 
-.edit-ico {
-    font-size: 1.5em; 
+.accion-ico {
+    font-size: 1.2em; 
     
 }
 
